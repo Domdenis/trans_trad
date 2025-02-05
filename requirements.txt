@@ -1,1 +1,9 @@
 streamlit
+yt-dlp
+openai-whisper
+faster-whisper
+gtts
+googletrans==4.0.0-rc1
+torch
+torchaudio
+ffmpeg-python
